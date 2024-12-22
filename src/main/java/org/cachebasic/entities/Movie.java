@@ -1,4 +1,4 @@
-package org.cleartrip.entities;
+package org.cachebasic.entities;
 
 //Movie entity
 public class Movie{

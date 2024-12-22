@@ -1,6 +1,6 @@
-package org.cleartrip.CacheManager;
+package org.cachebasic.CacheManager;
 
-import org.cleartrip.entities.Movie;
+import org.cachebasic.entities.Movie;
 
 import java.util.HashMap;
 import java.util.List;

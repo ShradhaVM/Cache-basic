@@ -1,4 +1,4 @@
-package org.cleartrip.entities;
+package org.cachebasic.entities;
 
 public class User{
     int userId;

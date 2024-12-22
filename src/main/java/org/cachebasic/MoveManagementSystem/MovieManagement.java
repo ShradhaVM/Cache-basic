@@ -1,9 +1,9 @@
-package org.cleartrip.MoveManagementSystem;
+package org.cachebasic.MoveManagementSystem;
 
-import org.cleartrip.CacheManager.LFUCache;
-import org.cleartrip.CacheManager.LRUCache;
-import org.cleartrip.entities.Movie;
-import org.cleartrip.entities.User;
+import org.cachebasic.CacheManager.LFUCache;
+import org.cachebasic.CacheManager.LRUCache;
+import org.cachebasic.entities.Movie;
+import org.cachebasic.entities.User;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
